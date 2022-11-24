@@ -1,0 +1,173 @@
+.html{
+
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+.h5{
+
+margin-bottom: 216px;
+
+
+}
+
+.img{
+
+opacity: 0.8;
+ 
+
+}
+
+h5{
+
+    font-size: 3rem;
+
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+.btns{background-color: #212529;
+font-size: large;
+padding:7px  45px;
+color: white;
+border: 2px solid gray;
+font-family: 'Times New Roman', Times, serif;
+border-radius: 5px;
+
+
+}
+.btns:hover{
+    background-color:transparent;
+    border: 2px solid gray;
+
+}
+
+.blogs{
+
+align-items: center;
+text-align: center;
+padding-top: 40px;
+padding-bottom: 40px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+.secondary{
+
+
+color: #212529;
+
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+.hey{
+
+padding-bottom: 5px;
+margin-top: -8px;
+
+}
+.abt{
+
+margin-top: 30PX;
+font-size: 3rem;
+
+}
+.more{
+    display: flex;
+ margin: auto;
+ text-align: center;
+justify-content: center;
+align-items: center;
+background-color: #212529;
+font-size: large;
+padding:8px  55px;
+color: white;
+border: 2px solid gray;
+font-family: 'Times New Roman', Times, serif;
+border-radius: 8px;
+margin-top: 30px;
+margin-bottom: 50px;
+
+}
+
+.more:hover{color: black;
+    background-color:transparent;
+    border: 2px solid rgb(92, 92, 92);
+}
+
+.sec{
+background-color: rgb(230, 221, 221);
+padding-bottom: 100px;
+
+}
+.eml{
+
+
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.bt{display: flex;
+    margin-left: -190px;
+    margin-top: -20px;
+    background-color: #212529;
+    font-size: medium;
+    padding:7px  18px;
+    color: white;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.bt:hover{
+background-color: white;
+color: black;
+border: 2px solid rgb(116, 116, 116);
+
+
+}
+.txt{
+   
+    font-size: 3rem;
+    padding-bottom: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.soc{
+display: flex;
+text-align: center;
+justify-content: center;
+    font-size: 3rem;
+  padding-bottom: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+
+
+}
+.con{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.icon{
+padding: 10px;
+margin-bottom: 30px;
+
+cursor: pointer;
+
+
+}
+.foot{
+padding-top: 20px;
+margin-top: -30px;
+margin-bottom: -35px;
+
+}
